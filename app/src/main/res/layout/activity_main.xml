@@ -41,6 +41,7 @@
         android:layout_gravity="center_horizontal"
         android:background="@drawable/round_botton"
         android:text="@string/button_start"
-        android:textColor="@color/white" />
+        android:textColor="@color/white"
+        android:id="@+id/button_get_started"/>
 
 </LinearLayout>
